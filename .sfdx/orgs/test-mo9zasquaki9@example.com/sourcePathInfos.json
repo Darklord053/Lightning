@@ -1,0 +1,311 @@
+[
+    [
+        "C:\\myeslwc\\force-app",
+        {
+            "sourcePath": "C:\\myeslwc\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954373476,
+            "changeTime": 1558954373476,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main",
+        {
+            "sourcePath": "C:\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954373476,
+            "changeTime": 1558954373476,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559018543889,
+            "changeTime": 1559018543889,
+            "contentHash": "ceb8794726dcd10a8d4f0e7d274189302b2dfe71"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954373476,
+            "changeTime": 1558954373476,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954373477,
+            "changeTime": 1558954373477,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\myeslwc",
+        {
+            "sourcePath": "C:\\myeslwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558954412026,
+            "changeTime": 1558954412026,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\Hydrabaad__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\Hydrabaad__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2139,
+            "modifiedTime": 1559018543855,
+            "changeTime": 1559018543855,
+            "contentHash": "7288c57a3ef12ef0850e726474221eac0c80681c"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\fields\\Areas_in_Hydrabaad__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\fields\\Areas_in_Hydrabaad__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1559018543860,
+            "changeTime": 1559018543860,
+            "contentHash": "22c59a86c53c08fa36a28dbb5e87adae8643ff13"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\fields\\square_miles_in_each_area__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\fields\\square_miles_in_each_area__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 422,
+            "modifiedTime": 1559018543865,
+            "changeTime": 1559018543865,
+            "contentHash": "6197b9c9ecef87a77d99eba6091f3a49982fd070"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1559018543870,
+            "changeTime": 1559018543870,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\layouts\\Hydrabaad__c-Hydrabaad Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\layouts\\Hydrabaad__c-Hydrabaad Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2957,
+            "modifiedTime": 1559018543881,
+            "changeTime": 1559018543881,
+            "contentHash": "ad3b0a1af1fb264affecd3ce1ea9694ec29cc604"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\tabs\\Hydrabaad__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\tabs\\Hydrabaad__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1559018543885,
+            "changeTime": 1559018543885,
+            "contentHash": "cb1b1ee11491de89d1f86e7aad6aae345dd7a2f5"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5019,
+            "modifiedTime": 1559018543892,
+            "changeTime": 1559018543892,
+            "contentHash": "3a5677d8535ebd8127898c2da499b2cf5b76d2e2"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5357,
+            "modifiedTime": 1559018543900,
+            "changeTime": 1559018543900,
+            "contentHash": "66aa75f6d0e9b66a32c1dc6bb33ca1977434bbe5"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19743,
+            "modifiedTime": 1559018543922,
+            "changeTime": 1559018543922,
+            "contentHash": "932065e1770033d6f2096eb89133297e2a651000"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5019,
+            "modifiedTime": 1559018543928,
+            "changeTime": 1559018543928,
+            "contentHash": "3a5677d8535ebd8127898c2da499b2cf5b76d2e2"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559018543866,
+            "changeTime": 1559018543866,
+            "contentHash": "e646e03700de4e2827b868a192c54fee5c9823f8"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559018543848,
+            "changeTime": 1559018543848,
+            "contentHash": "760ec62d83bf5ce605c53a5a14331d44ce70869d"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559018543860,
+            "changeTime": 1559018543860,
+            "contentHash": "6738372863098f80365799701c05654c22bc5954"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\objects\\Hydrabaad__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559018543866,
+            "changeTime": 1559018543866,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559018543879,
+            "changeTime": 1559018543879,
+            "contentHash": "45f1433bd8accff3da353cea66a2541d2147a9bc"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559018543883,
+            "changeTime": 1559018543883,
+            "contentHash": "2c90e7113dbe9aff8cc8cbe525d52131c84e80db"
+        }
+    ],
+    [
+        "C:\\myeslwc\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\myeslwc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559018543926,
+            "changeTime": 1559018543926,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
